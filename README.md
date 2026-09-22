@@ -9,4 +9,4 @@ The image file must be named dots.png, have a black background and must include:
 
 The yellow dots can also be placed to guide through or around some terrain.
 
-The Output file will be name route.png.
+The Output file will be route.png.
