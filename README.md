@@ -20,3 +20,6 @@ The Output file will be route.png.
 * Copy layer to a new image with a black background, save as dots.png in the project folder.
 * Use tsp.bat or python tsp.py
 * Load route.png and then add it as a new layer over the original map image.
+
+### Credits
+* Thanks to [Metallis](https://github.com/Metallis) for their invaluable contribution, feedback and clarifications.
